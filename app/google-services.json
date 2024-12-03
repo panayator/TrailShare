@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "87760920035",
+    "firebase_url": "https://trailshare-7a707-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "trailshare-7a707",
+    "storage_bucket": "trailshare-7a707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87760920035:android:253f41d233ed98f6d754d6",
+        "android_client_info": {
+          "package_name": "com.example.trailshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87760920035-4c611940upfq02lhf12eetqplv71197h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdtTKm3SnbHuFlqWGESfOhCgILpEnKJ5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87760920035-4c611940upfq02lhf12eetqplv71197h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
