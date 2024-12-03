@@ -1,1 +1,1 @@
-#### TrailShare, an Android app created as the semester project for the course Application Programming for Ubiquitous Computing (Department of Computer Science and Biomedical Informatics, University of Thessaly)
+### TrailShare, an Android app created as the semester project for the course Application Programming for Ubiquitous Computing (Department of Computer Science and Biomedical Informatics, University of Thessaly)
